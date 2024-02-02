@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently I am learning python and Data Science.<br>👯 Freshman in Data Science.<br>💬 Ask about open source.<br>⚡ I commit every day, pls don't go to contribution graph, I uses file editor.
+🔭 Currently I am learning python and Data Science.<br>👯 Freshman in Data Science.<br>💬 Ask about open source.<br>
 
 
 ## 🌐 Socials:
